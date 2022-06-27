@@ -20,9 +20,9 @@ export function StudentComp(props) {
         comment = '(Excellent)';
     }
 
-    return (<>
+    return (
         <p style={userStyle}>{props.studentName} - {props.studentId} - {props.studentGrade} - {comment}</p>
-    </>);
+    );
 }
 
 

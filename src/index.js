@@ -20,13 +20,13 @@ function GetYoutubeList() {
     },
     {
       title: "Cristiano Ronaldo ● Overall 2022 | HD",
-      youtubeurl: "https://www.youtube.com/embed/watch?v=QFGavQYP3ok",
+      youtubeurl: "https://www.youtube.com/embed/QFGavQYP3ok",
       width: 560,
       height: 315
     },
     {
       title: "THANK YOU, CRISTIANO RONALDO | Real Madrid Official Video",
-      youtubeurl: "https://www.youtube.com/embed/watch?v=5hFd6zGkxLE&t=98s",
+      youtubeurl: "https://www.youtube.com/embed/5hFd6zGkxLE",
       width: 560,
       height: 315
     }

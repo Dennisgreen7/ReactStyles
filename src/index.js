@@ -8,25 +8,25 @@ function GetYoutubeList() {
   let youtubeVideos = [
     {
       title: "The Day Cristiano Ronaldo Showed Zlatan Ibrahimovic Who Is The Boss",
-      youtubeurl: "https://www.youtube.com/watch?v=dNeY679KNCo",
+      youtubeurl: "https://www.youtube.com/embed/dNeY679KNCo",
       width: 560,
       height: 315 
     },
     {
       title: "How Cristiano Ronaldo Plays at 37",
-      youtubeurl: "https://www.youtube.com/watch?v=4x5snVAFwII",
+      youtubeurl: "https://www.youtube.com/embed/4x5snVAFwII",
       width: 560,
       height: 315
     },
     {
       title: "Cristiano Ronaldo ● Overall 2022 | HD",
-      youtubeurl: "https://www.youtube.com/watch?v=QFGavQYP3ok",
+      youtubeurl: "https://www.youtube.com/embed/watch?v=QFGavQYP3ok",
       width: 560,
       height: 315
     },
     {
       title: "THANK YOU, CRISTIANO RONALDO | Real Madrid Official Video",
-      youtubeurl: "https://www.youtube.com/watch?v=5hFd6zGkxLE&t=98s",
+      youtubeurl: "https://www.youtube.com/embed/watch?v=5hFd6zGkxLE&t=98s",
       width: 560,
       height: 315
     }
